@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxDockPanel: How to Disable Dragging for Certain Areas of the Header 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20044)**
+**[[Run Online]](https://codecentral.devexpress.com/e20044/)**
 <!-- run online end -->
 
 
